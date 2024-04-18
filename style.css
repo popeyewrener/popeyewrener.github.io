@@ -1,0 +1,39 @@
+/* General styles */
+body {
+    font-family: 'Arial', sans-serif;
+    margin: 0;
+    padding: 0;
+    color: #333; 
+}
+
+.container {
+    max-width: 1100px;
+    margin: 0 auto;
+    padding: 20px;
+}
+
+/* Navigation */
+nav {
+    background-color: #222;
+    color: #fff;
+    padding: 20px 0;
+}
+
+/* Hero */
+.hero {
+    background-color: #f0f0f0;  
+    text-align: center;
+    padding: 80px 0;
+}
+
+/* Buttons */
+.primary-button {
+    background-color: #007bff;
+    color: #fff;
+    padding: 15px 30px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+/* ----- Add styles for other sections as needed ----- */
